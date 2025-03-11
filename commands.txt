@@ -2,3 +2,9 @@ git init -> for initializing git in pwd
 
 git config --global user.name ""  -> for adding username
 git config --global user.email ""  -> for adding email
+
+git status -> list all untracked files
+
+git add -A -> adding all changes to staging area
+
+git commit -m" "  -> adding staged files to local repo
