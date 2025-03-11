@@ -8,3 +8,5 @@ git status -> list all untracked files
 git add -A -> adding all changes to staging area
 
 git commit -m" "  -> adding staged files to local repo
+
+git remote add origin https://github.com/Jeevanandps/python.git
