@@ -1,3 +1,4 @@
 git init -> for initializing git in pwd
 
-
+git config --global user.name ""  -> for adding username
+git config --global user.email ""  -> for adding email
