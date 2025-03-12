@@ -12,3 +12,10 @@ git commit -m" "  -> adding staged files to local repo
 git remote add origin https://github.com/Jeevanandps/python.git
 
 git remote -v
+
+git branch -> [list all branches]
+
+git branch branch_name  ->[create a new branch]
+
+git checkout branch_name  ->[to checkout to another branch]
+
