@@ -24,3 +24,6 @@ git merge branch_name  ->[merges all changes from a branch to master branch]
   this line is added to student branch
 
 this line is added from feature branch
+
+---------------------------------------
+this line is added from temp repo
