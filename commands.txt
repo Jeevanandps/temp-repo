@@ -19,5 +19,8 @@ git branch branch_name  ->[create a new branch]
 
 git checkout branch_name  ->[to checkout to another branch]
 
+git merge branch_name  ->[merges all changes from a branch to master branch]
+
   this line is added to student branch
-  
+
+this line is added from feature branch
